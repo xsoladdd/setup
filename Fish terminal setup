@@ -1,0 +1,12 @@
+-- Install Fish terminal
+
+-- Install Oh my Fish
+
+-- Install fav terminal config
+   - omf install sashimi
+
+-- If using NVM, install edc/Bass 
+   - omf install Bass
+
+-- Setup nvm alias
+   - alias nvm 'bass source ~/.nvm/nvm.sh --no-use ";" nvm'
